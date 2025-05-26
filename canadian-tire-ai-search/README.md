@@ -28,7 +28,7 @@ An AI-based visual search tool that allows users to upload or capture product im
 📁 **Project Files**  
 - [Final Presentation PDF](./final-presentation.pdf)  
 - [System Design Diagram](./system-design-diagram.png)  
-- [Transition Requirements](./transition-requirements.pdf)  
+- [Transition Requirements](./transition-requirements.png)  
 - [Risk Log (Outsourcing)](./risk-log.png)
 
 📈 **Impact**  

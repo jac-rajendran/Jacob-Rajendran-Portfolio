@@ -1,63 +1,103 @@
-<h1 align="center">Hi 👋, I'm Jacob Smith Rajendran </h1>
-<h3 align="center">Aspiring Business Analyst | UI/UX Enthusiast | Tech Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=70&lines=IT+Business+Analysis+Student;UI%2FUX+Learner+%7C+Figma+Explorer;Always+Learning+%7C+Always+Curious" alt="Typing SVG" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=jacobsmithrajendran" align="right" />
+<br/>
 
----
+# 👋 Hey, I'm Jacob Smith Rajendran!
 
-## 🧠 About Me
-- 📚 Postgraduate Diploma in IT Business Analysis – Conestoga College, ON (2023–2024)  
-- 🎓 BSc in Computer Forensics & Security – Leeds Beckett University, UK (2015–2017)  
-- 💡 Currently diving into the world of UI/UX Design  
-- 🌱 Learning Figma | Building better user experiences  
-- 🤝 Open to collaborations and new learning opportunities  
+### 🎓 IT Business Analyst | 📊 Data Analytics Enthusiast | 🔍 Process Improver  
+### [📧 Email](mailto:jacobsmithrajendran@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/jacob-smith-rajendran-678316244)
+
+</div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-**📘 Education**  
-- **Postgraduate Diploma** – IT Business Analysis  
-  *Conestoga College, ON | 2023 – 2024*  
-- **Bachelor of Science** – Computer Forensics & Security  
-  *Leeds Beckett University, UK | 2015 – 2017*
-
-**📜 Certifications**  
-- ✅ Agile Scrum Master Certification  
-- ✅ Lean Six Sigma White Belt  
-- ✅ Google Analytics Certified  
-- 🔄 *Currently Pursuing:*  
-  - IBM Designing User Interfaces and Experiences (UI/UX)  
-  - Foundations of UX Design  
-  - Google UX Design Professional Certificate  
+- **Bachelor of Technology (Information Technology)**  
+  *Kamla Nehru Institute of Technology* | Nov 2020 – Jun 2024 | 8.5 CGPA  
+- **XII (PCM)**  
+  *Pragyan Public School* | Apr 2019 – Mar 2020 | 97.2%  
+- **X**  
+  *Pragyan Public School* | Apr 2017 – Mar 2018 | 95.33%  
 
 ---
 
-## 💻 Tech Stack & Tools
+## ✨ Tech Stack & Tools
 
-### 💡 Languages & Front-End  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-
-
-
-### 🎨 UI/UX Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/-Minitab-007ACC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/-SharePoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 ---
 
-## 📫 Connect With Me
+## 📁 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jacob-smith-rajendran-678316244/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
+### 🛒 [Canadian Tire – AI-Powered Image Search](./canadian-tire-ai-search)
+Capstone project proposing an AI-enhanced image search system for e-commerce optimization.  
+**Tools:** Power BI, Azure, Excel, Tableau, Jira | **Role:** IT Business Analyst  
 
 ---
 
-<p align="center">
-  ⚡ Building my path in Business Analysis and UI/UX one step at a time!
-</p>
+### 📊 [Labour Force Analysis – Government of Canada](./labour-force-analysis)
+Statistical analysis of employment trends based on immigration status.  
+**Tools:** Minitab, Tableau, Power BI, Excel | **Role:** Business Data Analyst  
+
+---
+
+### 📞 [Virgin Plus – CRM & Retention Dashboard](./virgin-plus-crm-analysis)
+CRM migration, churn analysis, and retention dashboard design.  
+**Tools:** Salesforce, SQL, Excel, Jira | **Role:** Business Analyst  
+
+---
+
+### 📚 [LMS Migration Risk Management](./lms-migration-project)
+Risk identification, SharePoint access matrix, and stakeholder engagement.  
+**Tools:** SharePoint, Excel, Jira, FMEA | **Role:** Project Coordinator  
+
+---
+
+### 🏭 [FlightByNight – Lean Six Sigma Project](./flightbynight-lean-process)
+DMAIC methodology used to improve manufacturing efficiency by 18%.  
+**Tools:** Minitab, Excel, FMEA | **Role:** Process Analyst  
+
+---
+
+### 💐 [Festive Florals – SharePoint Role Permissions](./festive-florals-permissions)
+Role-based access setup and documentation in SharePoint.  
+**Tools:** SharePoint, Excel | **Role:** Business Analyst (IT Security)  
+
+---
+
+### 🍽️ [Pierogi House – Sales & Customer Engagement](./pierogi-house-leadership)
+Promotional campaign and team leadership boosting weekend sales.  
+**Tools:** POS, Excel, Customer Logs | **Role:** Shift Lead  
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jacobsmithrajendran&theme=transparent)
+<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobsmithrajendran&theme=transparent&show_icons=true&hide=prs&rank_icon=github)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jacobsmithrajendran)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jacob-smith-rajendran-678316244)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jacobsmithrajendran@gmail.com)
+
+</div>

@@ -12,7 +12,7 @@
 
 # 👋 Hey, I'm Jacob Smith Rajendran!
 
-### 🎓 IT Business Analyst 💻 | UI/UX Designer 🖌️ | 🔍 Process Improver  | Prototype Developer 📊  |  Wireframe Creator 📜
+### 🎓 IT Business Analyst 💻 | UI/UX Designer 🖌️ | 🔍 Process Improver  
 
 
 ### [📧 Email](mailto:jacobsmithrajendran@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/jacob-smith-rajendran-678316244)

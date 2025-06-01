@@ -80,15 +80,6 @@ Promotional campaign and team leadership boosting weekend sales.
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jacobsmithrajendran&theme=transparent)
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobsmithrajendran&theme=transparent&show_icons=true&hide=prs&rank_icon=github)
-
-</div>
 
 ---
 

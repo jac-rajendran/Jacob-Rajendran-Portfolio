@@ -41,7 +41,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/css.svg" alt="css" width="30" height="30" title="css" />&nbsp;
+
 
 
 

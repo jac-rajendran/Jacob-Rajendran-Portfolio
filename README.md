@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C62F&center=true&vCenter=true&width=435&lines=IT+Business+Analyst+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;Process+Improver+%F0%9F%94%8D;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+
+
 <img src="https://komarev.com/ghpvc/?username=jacobsmithrajendran" align="right" />
 <br/>
 
@@ -12,14 +18,20 @@
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-- **Bachelor of Technology (Information Technology)**  
-  *Kamla Nehru Institute of Technology* | Nov 2020 – Jun 2024 | 8.5 CGPA  
-- **XII (PCM)**  
-  *Pragyan Public School* | Apr 2019 – Mar 2020 | 97.2%  
-- **X**  
-  *Pragyan Public School* | Apr 2017 – Mar 2018 | 95.33%  
+**🎓 Education**  
+- **Postgraduate Diploma** – IT Business Analysis, Conestoga College, ON (2023–2024)  
+- **BSc** – Computer Forensics & Security, Leeds Beckett University, UK (2015–2017)
+
+**📜 Certifications**  
+- Agile Scrum Master Certification  
+- Lean Six Sigma White Belt  
+- Google Analytics Certified  
+- *Pursuing:*  
+  - IBM Designing User Interfaces and Experiences (UI/UX)  
+  - Foundations of UX Design  
+  - Google UX Design Professional Certificate  
 
 ---
 
@@ -33,6 +45,11 @@
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/-SharePoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🎨 UI/UX  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 

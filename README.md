@@ -4,6 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C62F&center=true&vCenter=true&width=600&lines=Business+Analyst+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%96%8C%EF%B8%8F;Prototype+Developer+%F0%9F%93%8A;Wireframe+Creator+%F0%9F%93%9C;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+<!-- Profile Photo -->
+<p align="center">
+  <img src="./assets/IMG_1526.jpg" width="180" style="border-radius: 20px;" alt="Jacob Smith Rajendran" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7C62F&center=true&vCenter=true&width=600&lines=Business+Analyst+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%96%8C%EF%B8%8F;Prototype+Developer+%F0%9F%93%8A;Wireframe+Creator+%F0%9F%93%9C;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+
+
 
 
 

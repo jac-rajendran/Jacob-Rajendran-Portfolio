@@ -30,9 +30,9 @@
 - Agile Scrum Master Certification  
 - Lean Six Sigma White Belt  
 - Google Analytics Certified  
-- *Pursuing:*  
+- *Pursuing:*
+  - Foundations of UX Design 
   - IBM Designing User Interfaces and Experiences (UI/UX)  
-  - Foundations of UX Design  
   - Google UX Design Professional Certificate  
 
 ---

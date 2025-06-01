@@ -20,7 +20,6 @@
 
 ## 🎓 Education & Certifications
 
-**🎓 Education**  
 - **Postgraduate Diploma** – IT Business Analysis, Conestoga College, ON (2023–2024)  
 - **BSc** – Computer Forensics & Security, Leeds Beckett University, UK (2015–2017)
 

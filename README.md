@@ -1,8 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F7C62F&center=true&width=1100&lines=%F0%9F%8E%93+IT+Business+Analyst+%F0%9F%92%BB+%7C+UI%2FUX+Designer+%F0%9F%96%8C%EF%B8%8F+%7C+Front-end+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing Animation" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Player+1:+IT+Business+Analyst;Player+2:+UI%2FUX+Designer;Press+Start+to+Continue" alt="Retro Game Text" />
+</p
 
 
 # 👋🏻 Hey, I'm Jacob Smith Rajendran!
